@@ -8,7 +8,8 @@ Step 1 :
   All path should be set. If not then set it first.
 
 Step 2: 
-  Make the table structure as shown in the dbms.txt file.
+  Make the table structure as shown in the table_structure.txt file.
+  You must know the basic DML and DDL queries.
   Also check the you have set the classpath in environment variables. If not then contact me shortly.
   Also check the username and password i have used in the program should same or change it as yours.
 
