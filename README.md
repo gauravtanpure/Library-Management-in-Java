@@ -17,6 +17,6 @@ Step 2:
   Just download the LMS.java file and save it by .java extension.
   Run it where you want it.
 
-If you have any concern related to project the report to me trough my email.
+If you have any concern related to project then report to me trough my email.
   gauravtanpure999@gmail.com
   
